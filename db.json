@@ -1,0 +1,154 @@
+{
+  "city":
+    {
+      "id": 1,
+      "name": "Honolulu-Hawai"
+    }, 
+    
+  "poi": [
+    { 
+    
+      "id":1,
+      "placeName": "Playa de Lanikai",
+      "description": "Playa arenosa bordeada de palmeras bañada por las aguas azules tropicales del Pacífico, ideales para hacer kayak y de más deportes acuáticos.",
+      "generalInfo": "La Playa Lanikai es una playa ubicada en Kailua, en la costa este de Oahu, Hawái. Esta playa, con sólo 800 metros de largo, es considerada una de las mejores playas del mundo. Contiguo a esta playa se encuentra un barrio de clase alta, y debido a esto es accsesible sólo a través de caminos públicos. No hay estacionamientos, baños, duchas ni guardavidas.Durante los días de semana la playa es muy solitaria, pero en los fines de semana y durante la temporada turística alta es visitada por multitudes." ,
+      "location":"Isla Oahu, Hawái",
+      "lati":"21.3918223",
+      "longi":"-157.71734",
+      "temperature": "25°C",
+      "generalPuntuation": 4.1 ,
+      "image": "https://happyhawaii.es/wp-content/uploads/2018/05/lanikai-beach-playa-1500x715.jpg"
+    },
+    { 
+      "id":2,
+      "placeName": "USS Arizona Memorial",
+      "description": "Es un monumento a los que perecieron con el hundimiento del USS Arizona, se encuentra sobre los restos de la nave hundida. Algunas porciones se pueden ver sobresaliendo del agua",
+      "generalInfo": "El USS Arizona fue un acorazado de la clase Pennsylvania de la Armada de Estados Unidos. Este buque fue el tercero en ser nombrado así, en honor al estado número 48 de ese país. Fue construido en 1916 y vio acción en la Primera Guerra Mundial. Es más conocido por su espectacular y catastrófico hundimiento con la pérdida de 1117 vidas, durante el ataque japonés a Pearl Harbor, el 7 de diciembre de 1941" ,
+      "location":"Pearl Harbor, Honolulu-Hawái",
+      "lati":"21.3676035",
+      "longi":"-157.9410467",
+      "temperature": "24°C",
+      "generalPuntuation": 4.9 ,
+      "image": "https://www.nps.gov/common/uploads/grid_builder/valr/crop16_9/31B510E5-02BD-BD2E-7FD0EAFD20DC0642.jpg?width=950&quality=90&mode=crop"
+    }, 
+    { 
+      "id":3,
+      "placeName": "Waikiki",
+      "description": "Waikiki, con su bello  tramo de playa frente al mar, es la atracción turística más grande de Hawai, es de fácil acceso y ofrece todas las comodidades y el entretenimiento de una ciudad moderna.",
+      "generalInfo": "Es un barrio de Honolulu. Las famosas playas creadas por la mano del hombre y sus hoteles son mundialmente reconocidos.A lo largo de sus dos avenidas principales Kalākaua y Kūhiō se disponen la mayoría de los edificios públicos, hoteles y comercios. Mientras que el sector que bordea el canal Alawai es mayormente residencial. Waikiki es prácticamente una península limitada por una parte por el océano y sus playas y la otra el canal descrito.",
+      "location":"Isla Oʻahu,Hawái",
+      "lati":"21.2801507",
+      "longi":"-157.841453",
+      "temperature": "26°C",
+      "generalPuntuation": 4.8 ,
+      "image": "https://www.speedishuttle.com/images/site/visit-waikiki.jpg"
+    },
+     { 
+      "id": 4,
+      "placeName":"Valle de Waipio" ,
+      "description": "Uno de los lugares más concurridos de la Isla Grande de Hawai es el mirador sobre el valle de Waipio, rodeado de frondosos muros de acantilados, se abre al océano, donde la playa de arena negra se encuentra con olas blancas y agua azul.",
+      "generalInfo": " El Valle de Waipio tiene una milla de ancho en la costa y casi seis millas de profundidad, y a lo largo de la costa hay una hermosa playa de arena negra que a menudo usan las compañías productoras de películas. A ambos lados del valle, hay acantilados que alcanzan casi 2.000 pies con cientos de cascadas, incluida una de las cascadas más famosas de Hawái, Hi’ilawe." ,
+      "location": "Distrito de Hamakua de la Isla Grande de Hawái" ,
+      "lati":"20.1151155",
+      "longi":"-155.5886314",
+      "temperature": "25°C",
+      "generalPuntuation": 5 ,
+      "image":"https://media-cdn.tripadvisor.com/media/photo-s/14/d2/40/0e/20180925-112215-largejpg.jpg" 
+      },
+      
+      { 
+      "id": 5,
+      "placeName":"Parque Nacional Haleakala" ,
+      "description": "Ofrece acceso al inactivo Haleakala Volcán que se encuentra a más de 10.000 pies. Las vistas desde la cumbre se extienden por toda la isla y son particularmente hermosas al amanecer.",
+      "generalInfo":"El parque nacional cuenta con más de 30.000 hectáreas con distintos tipos de paisaje, ya que por un lado se pueden visitar las cimas más altas de los montes de Maui, pero por el otro se pueden visitar desiertos o zonas selváticas con cascadas y una gran cantidad de flora." ,
+      "location":"Isla Maui,Hawái" ,
+      "lati":"20.7098954",
+      "longi":"-156.247357",
+      "temperature": "20°C",
+      "generalPuntuation": 4.9 ,
+      "image":"https://red-viajes.com/wp-content/uploads/2019/09/area-cumbre-del-parque-nacional-haleakala.jpg" 
+      }
+  ],
+  "comments": [
+    { 
+    "id": 1, 
+    "comment": "Hermosa playa de arena suave y agua cristalina. Desafortunadamente, tiene un estacionamiento mínimo y mucha gente lo visita.",
+    "userPuntuation": 4.2,
+    "poiId": 1 
+    },
+    { 
+      "id": 2, 
+      "comment": "Playa de aguas cristalinas y arena blanca, sin olas y con muchos corales a sólo metros de la orilla, ideal para hacer snorkel y ver muchos peces.", 
+      "userPuntuation": 4,
+      "poiId": 1 
+    },
+    { 
+      "id": 3, 
+      "comment": "Emotivo y movilizador monumento a las víctimas de este ataque. El acceso es por bote, y el tiempo es limitado. Permite ver restos del navío hundido.", 
+      "userPuntuation": 4.8,
+      "poiId": 2 
+    },
+    { 
+      "id": 4, 
+      "comment": "Un sitio sin lugar a duda bastante impresionante! Estar ahí y ver todo eso e imaginarlo produce tristeza, pesar y hasta cierto desconsuelo por tantas pérdidas humanas y destrucción.", 
+      "userPuntuation": 5,
+      "poiId": 2 
+    },
+    { 
+      "id": 5, 
+      "comment": "Buena playa, aguas cristalinas y buena arena. Tiene una parte que es literalmente una piscina natural, casi sin olas, perfecto para flotar", 
+      "userPuntuation": 4.5,
+      "poiId": 3 
+    },
+    { 
+      "id": 6, 
+      "comment": "De las mejores playas para disfrutar con pareja o familia, muy agradable, hay baños públicos, las olas y la corriente tranquila, ves gente de todo tipo, muy hermosos los atardeceres.", 
+      "userPuntuation": 5,
+      "poiId": 3 
+    },
+    { 
+      "id": 7, 
+      "comment": "Absolutamente increible. Majestuosa cascada, caballos salvajes, playa de arena negra, río de agua dulce que corre hacia el mar", 
+      "userPuntuation": 5,
+      "poiId": 4 
+    },
+    { 
+      "id": 8, 
+      "comment": "Hermosisima vista de la playa negra y el mar. Vista como para postal. Paisajes imperdibles que no solo deleitan el sentido de la vista sino el alma.", 
+      "userPuntuation": 5,
+      "poiId": 4 
+    },
+    { 
+      "id": 9, 
+      "comment": "Un lugar maravilloso con vistas espectaculares pero hay que considerar que es una caminata larga por las montañas y debido a la altura el clima es muy frío y con mucho viento, por lo cual es necesario ir muy abrigado", 
+      "userPuntuation": 4.8,
+      "poiId": 5 
+    },
+    { 
+      "id": 10, 
+      "comment": "Hermosa experiencia, estar a 3 mil metros de altura entre las nubes, con una vista hermosa de la zona del volcán.", 
+      "userPuntuation": 5,
+      "poiId": 5
+    }
+    
+  ],
+  "users": [
+    { 
+      "id": 1, 
+      "name": "Carolina",
+      "lastName":"Garcia" ,
+      "email": "caro@correo.com",
+      "password": "1234"
+    },
+    {
+     "id": 2, 
+      "name": "Pepe",
+      "lastName":"Florez" ,
+      "email":"pepe@correo.com" ,
+      "password": "12345"
+    }
+  ],
+  "profile": {
+    "name": "cgc9"
+  }
+}
